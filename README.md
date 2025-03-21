@@ -36,12 +36,6 @@ Repositori ini merupakan kumpulan proyek yang menyajikan penerapan berbagai tekn
     cd Neural-Network-project
     ```
 
-2.  **Instal dependensi:** Pastikan Anda memiliki Python dan pip terinstal. Kemudian, instal pustaka yang diperlukan:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 2.  **Instal dependensi:** Pastikan Anda memiliki Python dan pip terinstal. Instal semua dependensi dengan perintah berikut:
 
     ```bash
