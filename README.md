@@ -32,8 +32,8 @@ Repositori ini merupakan kumpulan proyek yang menyajikan penerapan berbagai tekn
 1.  **Kloning repositori:**
 
     ```bash
-    git clone https://github.com/USERNAME/Neural-Network-Time-Series.git
-    cd Neural-Network-Time-Series
+    git clone https://github.com/IngsR/Neural-network-project.git
+    cd Neural-Network-project
     ```
 
 2.  **Instal dependensi:** Pastikan Anda memiliki Python dan pip terinstal. Kemudian, instal pustaka yang diperlukan:
