@@ -22,9 +22,10 @@ Repositori ini merupakan kumpulan proyek yang menyajikan penerapan berbagai tekn
 
 ├── Data/        
 ├── notebooks/        
----└──── LTSM-prophet_AirPassanger.ipynb         
+│ └── LTSM-prophet_AirPassanger.ipynb         
 ├── license         
-├── README.md             
+└── README.md  
+           
 
 
 ## 🚀 Cara Menggunakan
