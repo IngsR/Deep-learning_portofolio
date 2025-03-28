@@ -1,10 +1,10 @@
-# 🧠🤖 Proyek Analisis Jaringan Saraf 📊
+# 🧠🤖 Deep Learning Portofolio 📊
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/Neural-Network-Time-Series)
 [![Open in VS Code](https://img.shields.io/badge/Open%20in%20VS%20Code-blue?style=flat-square&logo=visual-studio-code)](https://vscode.dev/github/USERNAME/Neural-Network-Time-Series)
 
-## Selamat datang di repository Portfolio Neural Network. 
-Repositori ini merupakan kumpulan proyek yang menyajikan penerapan berbagai teknik neural network untuk analisis dan peramalan data. Proyek-proyek yang terdapat di sini dilengkapi dengan notebook Jupyter (.ipynb) dan dataset terkait, serta mencakup pendekatan mulai dari model statistik klasik hingga teknik deep learning modern.
+## Selamat datang di repository Portfolio Deep Learning. 
+Repositori ini merupakan kumpulan proyek yang menyajikan penerapan berbagai teknik Deep Learning untuk analisis dan peramalan data. Proyek-proyek yang terdapat di sini dilengkapi dengan notebook Jupyter (.ipynb) dan dataset terkait, serta mencakup pendekatan mulai dari model statistik klasik.
 
 
 ## 💡 Fitur Utama
