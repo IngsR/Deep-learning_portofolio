@@ -20,11 +20,11 @@ Repositori ini merupakan kumpulan proyek yang menyajikan penerapan berbagai tekn
 
 ## 📂 Struktur Direktori
 
-├── Data/
-├── notebooks/
-    └──── LTSM-prophet_AirPassanger.ipynb 
-├── license 
-├── README.md 
+├── Data/        
+├── notebooks/        
+---└──── LTSM-prophet_AirPassanger.ipynb         
+├── license         
+├── README.md             
 
 
 ## 🚀 Cara Menggunakan
@@ -108,6 +108,6 @@ Proyek ini dilisensikan di bawah Lisensi [MIT](LICENSE) - lihat berkas `LICENSE`
 Terima kasih kepada komunitas ilmu data dan machine learning atas sumber daya dan inspirasi yang tak terhitung jumlahnya!
 Saya juga ingin berterima kasih kepada Kaggle atas penyediaan platform dan dataset, yang telah sangat membantu dalam proyek ini. [**Tautan ke Halaman Dataset Kaggle**]
 
-## 🧑‍💻 Penulis
 
+## 🧑‍💻 Penulis
 [**Ikhwan Ramadhan**]
