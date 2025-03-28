@@ -32,8 +32,8 @@ Repositori ini merupakan kumpulan proyek yang menyajikan penerapan berbagai tekn
 1.  **Kloning repositori:**
 
     ```bash
-    git clone https://github.com/IngsR/Neural-network-project.git
-    cd Neural-Network-project
+    git clone https://github.com/IngsR/Deep-learning_portofolio.git
+    cd Deep-learning_portofolio
     ```
 
 2.  **Instal dependensi:** Pastikan Anda memiliki Python dan pip terinstal. Instal semua dependensi dengan perintah berikut:
