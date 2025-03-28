@@ -106,7 +106,7 @@ Proyek ini dilisensikan di bawah Lisensi [MIT](LICENSE) - lihat berkas `LICENSE`
 ## 🙏 Ucapan Terima Kasih
 
 Terima kasih kepada komunitas ilmu data dan machine learning atas sumber daya dan inspirasi yang tak terhitung jumlahnya!
-Saya juga ingin berterima kasih kepada Kaggle atas penyediaan platform dan dataset, yang telah sangat membantu dalam proyek ini. [**Tautan ke Halaman Dataset Kaggle**]
+Saya juga ingin berterima kasih kepada Kaggle atas penyediaan platform dan dataset, yang telah sangat membantu dalam proyek ini. [**Dataset Kaggle**](https://www.kaggle.com/datasets)
 
 
 ## 🧑‍💻 Penulis
