@@ -11,7 +11,7 @@ Repositori ini merupakan kumpulan proyek yang menyajikan penerapan berbagai tekn
 
 *   **Eksplorasi Data:**  Notebook untuk memvisualisasikan dan memahami karakteristik data deret waktu.
 *   **Rekayasa Fitur:**  Notebook untuk membuat fitur yang relevan dari data.
-*   **Model Jaringan Saraf:**  Implementasi berbagai model jaringan saraf untuk analisis data , seperti Feedforward Neural Networks (FNN) untuk regresi dan klasifikasi, Convolutional Neural Networks (CNN) untuk ekstraksi fitur, serta Recurrent Neural Networks (RNN) termasuk varian LSTM dan GRU untuk peramalan deret waktu..
+*   **Model Deep Learning:**  Implementasi berbagai model jaringan saraf untuk analisis data , seperti Feedforward Neural Networks (FNN) untuk regresi dan klasifikasi, Convolutional Neural Networks (CNN) untuk ekstraksi fitur, serta Recurrent Neural Networks (RNN) termasuk varian LSTM dan GRU untuk peramalan deret waktu..
 *   **Model Statistik:**  Penggunaan model statistik klasik seperti ARIMA, dan Prophet untuk perbandingan dan hibridisasi.
 *   **Evaluasi:**  Metrik evaluasi komprehensif untuk membandingkan kinerja berbagai model.
 *   **Notebook Jupyter:**  Semua kode diatur dalam Jupyter Notebook untuk eksplorasi dan modifikasi yang mudah.
